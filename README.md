@@ -2,7 +2,11 @@
 
 ## fbprophet
 ```
-Applying Facebook Prophet on monthly-milk-production-pounds.csv data
+Forecasting using Facebook Prophet on monthly-milk-production-pounds.csv data
+```
+## fbprophet2
+```
+Forecasting using Facebook Prophet on airline_passengers.csv data
 ```
 
 
