@@ -8,4 +8,4 @@ Current release info
 ====================
 
 
-| [![Conda Recipe](https://img.shields.io/badge/recipe-fbprophet-green.svg)](https://anaconda.org/conda-forge/fbprophet) | [![Conda Downloads]
+[![Conda Recipe](https://img.shields.io/badge/recipe-fbprophet-green.svg)](https://anaconda.org/conda-forge/fbprophet) 
